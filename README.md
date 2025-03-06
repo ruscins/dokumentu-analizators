@@ -93,11 +93,10 @@ streamlit run app.py
 
 Ja jums ir kādas problēmas vai ierosinājumi:
 - Atveriet "issues" GitHub repozitorijā
-- Sūtiet e-pastu [jūsu-e-pasts]
 
 ## Licenze
 
-[Norādiet jūsu projekta licenci, piemēram, MIT]
+MIT
 
 ## Tiešsaistes versija
 
