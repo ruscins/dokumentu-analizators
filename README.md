@@ -93,10 +93,16 @@ streamlit run app.py
 
 Ja jums ir kādas problēmas vai ierosinājumi:
 - Atveriet "issues" GitHub repozitorijā
+- Sūtiet e-pastu [jūsu-e-pasts]
 
 ## Licenze
 
-MIT
+[Norādiet jūsu projekta licenci, piemēram, MIT]
+
+## Tiešsaistes versija
+
+Varat izmēģināt lietotni uzreiz tiešsaistē: 
+[📊 Dokumentu Analīzes Asistents](https://gqzs2oy7dslywwmcvyffv8.streamlit.app/)
 
 ---
 
